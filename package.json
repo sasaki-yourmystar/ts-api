@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npm install -g ts-node && ts-node index.js",
+    "start": "npm install -g ts-node && ts-node index.ts",
     "tsc:ver": "tsc -v",
     "build": "tsc",
     "ts-node": "ts-node",
